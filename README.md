@@ -107,16 +107,8 @@ Building practical SaaS solutions and testing new ideas.
 
 ---
 
-## Connect With Me
-
-- LinkedIn
-- X / Twitter
-- Website / Portfolio
-
----
-
 <div align="center">
 
-"Keep learning. Keep building."
+"My partners build for me."
 
 </div>
