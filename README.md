@@ -93,9 +93,9 @@ Building practical SaaS solutions and testing new ideas.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=rapiip&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapiip&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -103,7 +103,7 @@ Building practical SaaS solutions and testing new ideas.
 
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rapiip&theme=tokyo-night">
 
 ---
 
