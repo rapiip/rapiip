@@ -31,7 +31,7 @@ Rafif Alton
 
 > role
 
-Community Founder @ Decent Traderz
+Certified Unemployed
 
 > learning
 
