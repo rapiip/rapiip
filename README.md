@@ -1,16 +1,122 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rapiip/rapiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rafif Alton
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+Enthusiast;Cybersecurity+Learner;Web3+Researcher;Community+Builder;Building+Useful+Projects" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+I am passionate about building practical technology solutions while continuously learning in the fields of Artificial Intelligence, Cybersecurity, and Blockchain.
+
+Currently focused on:
+
+- Artificial Intelligence & Machine Learning
+- Cybersecurity Research & Labs
+- Web3 & Blockchain Ecosystem
+- SaaS Development
+- Open Source Learning
+
+---
+
+## Current Focus
+
+```bash
+> whoami
+
+Rafif Alton
+
+> role
+
+Community Founder @ Decent Traderz
+
+> learning
+
+AI
+Cybersecurity
+Blockchain
+
+> current_status
+
+Building projects...
+```
+
+---
+
+## Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+### Interests
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-blue?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
+![Blockchain](https://img.shields.io/badge/Blockchain-purple?style=for-the-badge)
+![Web3](https://img.shields.io/badge/Web3-black?style=for-the-badge)
+
+---
+
+## Featured Projects
+
+### AI Learning Journey
+
+Documentation and experiments related to AI and Machine Learning.
+
+### Cybersecurity Practice Lab
+
+Hands-on cybersecurity exercises, labs, and security research.
+
+### Web3 Research Archive
+
+Blockchain ecosystem research, project analysis, and educational resources.
+
+### SaaS Experiments
+
+Building practical SaaS solutions and testing new ideas.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night">
+
+---
+
+## Connect With Me
+
+- LinkedIn
+- X / Twitter
+- Website / Portfolio
+
+---
+
+<div align="center">
+
+"Keep learning. Keep building."
+
+</div>
