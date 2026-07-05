@@ -100,12 +100,6 @@ Building practical SaaS solutions and testing new ideas.
 
 ---
 
-## Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rapiip&theme=tokyo-night">
-
----
-
 <div align="center">
 
 "My partners build for me."
