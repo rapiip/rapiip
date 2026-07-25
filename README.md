@@ -10,6 +10,6 @@
 
 <div align="center">
 
-"My partners build for me."
+My partners build for me.
 
 </div>
